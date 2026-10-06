@@ -15,5 +15,6 @@
             double W = Math.Sqrt(p * (p - number1) * (p - number2) * (p - number3));  
             Console.WriteLine($"Периметр: {B}");
             Console.WriteLine($"Площадь: {W:F2}");
+            Console.WriteLine($"Площадь: {W:F2}");
         }
     }
